@@ -89,7 +89,11 @@ CustomerFeedbackSystem/
 ## 📃 License
 This project is for educational purposes.
 
+---
 
+## Developed by Poomozhi.B
+
+---
 
 
 Institution:
