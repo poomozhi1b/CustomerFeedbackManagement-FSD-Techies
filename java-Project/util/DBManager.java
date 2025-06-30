@@ -9,7 +9,7 @@ import java.sql.SQLException;
 public class DBManager {
     private static final String URL = "jdbc:mysql://localhost:3306/feedback_db";
     private static final String USER = "root";
-    private static final String PASS = "Priya@10";
+    private static final String PASS = "Pooja@12";
 
     public static Connection getConnection1() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASS);
